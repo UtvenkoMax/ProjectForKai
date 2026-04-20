@@ -1,0 +1,14 @@
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\bin\Debug\net10.0\Lab4Cs.exe
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\bin\Debug\net10.0\Lab4Cs.deps.json
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\bin\Debug\net10.0\Lab4Cs.runtimeconfig.json
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\bin\Debug\net10.0\Lab4Cs.dll
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\bin\Debug\net10.0\Lab4Cs.pdb
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\Lab4Cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\Lab4Cs.AssemblyInfoInputs.cache
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\Lab4Cs.AssemblyInfo.cs
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\Lab4Cs.csproj.CoreCompileInputs.cache
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\Lab4Cs.dll
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\refint\Lab4Cs.dll
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\Lab4Cs.pdb
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\Lab4Cs.genruntimeconfig.cache
+C:\Users\utven\source\repos\Lab4Cs\Lab4Cs\obj\Debug\net10.0\ref\Lab4Cs.dll
